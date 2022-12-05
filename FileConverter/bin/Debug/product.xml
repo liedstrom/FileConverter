@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<people>
+  <person>
+    <firstname>Elof</firstname>
+    <lastname>Sundin</lastname>
+  </person>
+  <person>
+    <firstname>Boris</firstname>
+    <lastname>Johnson</lastname>
+  </person>
+  <person>
+    <firstname>Mickey</firstname>
+    <lastname>Mouse</lastname>
+  </person>
+  <person>
+    <firstname>Egon</firstname>
+    <lastname>Snömos</lastname>
+  </person>
+</people>

@@ -1,0 +1,11 @@
+C:\Users\Lars\source\repos\FileConverter\bin\Release\FileConverter.exe.config
+C:\Users\Lars\source\repos\FileConverter\bin\Release\FileConverter.exe
+C:\Users\Lars\source\repos\FileConverter\bin\Release\FileConverter.pdb
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.csproj.AssemblyReference.cache
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.Form1.resources
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.Properties.Resources.resources
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.csproj.GenerateResource.cache
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.exe
+C:\Users\Lars\source\repos\FileConverter\obj\Release\FileConverter.pdb
